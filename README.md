@@ -47,9 +47,6 @@ APIs can help improve software and system testing by allowing quality engineerin
 
 ##  :camera: Gallery
 
-![Screenshot (233)](https://user-images.githubusercontent.com/59395624/160382979-87627b7b-40b5-44f3-b1d9-89ce13bdc71c.png)
-![Screenshot (234)](https://user-images.githubusercontent.com/59395624/160383050-190db888-5f8f-43c2-b214-da5bd38e2ac7.png)
-
 
 ## THANK YOU
 
