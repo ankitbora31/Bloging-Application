@@ -1,7 +1,14 @@
 # Bloging-Application
 Java + Spring + PostMan + aws + MySQL + hibernate
 # Introduction
-- CRUD application used
+- REST  Representational(Format Json, xml) State (data) Transfer (between two parties)
+- 
+# REST Guidelines
+- Client Server Architecture
+- Stateless
+- Cacheable
+- Layered System
+- Uniform Interface
 
 
 ##  :beginner: About
@@ -24,13 +31,13 @@ APIs can help improve software and system testing by allowing quality engineerin
 
 ### :notebook: Pre-Requisites
 - Java Core
-- MySQL
-- SpringBoot
-- Postman
+- MySQL Database
+- Spring Framework (Spring Core(DI), JPA, MVC)
+- STS IDE
+
 
 ###  :nut_and_bolt: Development Environment
-- Dependencies can be set while starting the project in spring initializer phase although if you miss any of the dependency, these can be further added in pom file which stores all the dependencies. When we initialize the spring it already provides us a pom file.
-- This project is done using maven so the structure is to be followed while adding dependencies.
+- springBoot
 
 
  > If you are new to open-source, make sure to check read more about it [here](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) and learn more about creating a pull request [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
