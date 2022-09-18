@@ -20,6 +20,40 @@ Java + Spring + PostMan + aws + MySQL + hibernate
 - HTTP response Codes (200 OK, 201 Created, 401 Unauthorized, 404 Not Found, 500 ISE)
 
 
+##  :beginner: Client Requirements
+- Client wants blogging application where he/she can write blogs and articles.
+- User can comment on the blogs/article
+- User should create, update, delete and list posts.
+- User should add, update, delete comments on posts.
+- Categories the posts according to categories.
+- New User should be able to register on our application.
+- User should able to login to our application.
+- Post include one picture too.
+
+
+##  :beginner: To Do
+- Proper login and register API
+- Posts API includes Pagination and Sorting
+- Proper user input validation handling
+- Proper exception handling
+- Role Based authentication-role based security with apis.
+- JWT based authentication
+- Document all rest apis so that consumer can understand it.
+- Deploy the backend application on cloud platform.
+
+
+##  :beginner: Technologies
+- Framework: Spring Boot Java Framework
+- java 8+
+- Maven
+- STS
+- Apache Tomcat -> embedded
+- Spring Core, JWT, JPA(Hibernate)
+- MySQL Database
+- Postman Rest Client
+- API Documentation Swagger
+- AWS
+
 ##  :beginner: About
 API is an abbreviation for Application Programming Interface which is a collection of communication protocols and subroutines used by various programs to communicate between them, an API helps two programs or applications to communicate with each other by providing them with necessary tools and functions. It takes the request from the user and sends it to the service provider and then again sends the result generated from the service provider to the desired user.
 
