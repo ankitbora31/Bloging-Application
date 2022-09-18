@@ -1,14 +1,23 @@
 # Bloging-Application
 Java + Spring + PostMan + aws + MySQL + hibernate
+
 # Introduction
 - REST  Representational(Format Json, xml) State (data) Transfer (between two parties) 
-- # REST Guidelines
--- Client Server Architecture
+
+# REST Guidelines
+- Client Server Architecture
 - Stateless
 - Cacheable
 - Layered System
 - Uniform Interface
 - Code on Demand
+
+# REST Concepts
+- Resource
+- Sub-resource
+- URI (Uniform Resource Identifier)
+- Http Methods (GET, POST, PUT, DELETE)
+- HTTP response Codes (200 OK, 201 Created, 401 Unauthorized, 404 Not Found, 500 ISE)
 
 
 ##  :beginner: About
