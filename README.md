@@ -53,6 +53,10 @@ Java + Spring + PostMan + aws + MySQL + hibernate
 - Postman Rest Client
 - API Documentation Swagger
 - AWS
+- 
+##  :beginner: DataBase layout
+![db_layout](https://user-images.githubusercontent.com/59395624/190891347-784e182e-4ad9-47d3-8553-70f00d8fdbe4.png)
+
 
 ##  :beginner: About
 API is an abbreviation for Application Programming Interface which is a collection of communication protocols and subroutines used by various programs to communicate between them, an API helps two programs or applications to communicate with each other by providing them with necessary tools and functions. It takes the request from the user and sends it to the service provider and then again sends the result generated from the service provider to the desired user.
