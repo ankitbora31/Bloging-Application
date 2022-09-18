@@ -1,14 +1,14 @@
 # Bloging-Application
 Java + Spring + PostMan + aws + MySQL + hibernate
 # Introduction
-- REST  Representational(Format Json, xml) State (data) Transfer (between two parties)
-- 
-# REST Guidelines
-- Client Server Architecture
+- REST  Representational(Format Json, xml) State (data) Transfer (between two parties) 
+- # REST Guidelines
+-- Client Server Architecture
 - Stateless
 - Cacheable
 - Layered System
 - Uniform Interface
+- Code on Demand
 
 
 ##  :beginner: About
