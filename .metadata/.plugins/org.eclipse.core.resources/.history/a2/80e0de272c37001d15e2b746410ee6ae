@@ -1,0 +1,7 @@
+package com.ankit.blog.services;
+
+import com.ankit.blog.entities.User;
+
+public interface UserService {
+	User createUser(User user);
+}

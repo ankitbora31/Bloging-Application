@@ -1,0 +1,5 @@
+package com.ankit.blog.repositories;
+
+public class UserRepo {
+
+}

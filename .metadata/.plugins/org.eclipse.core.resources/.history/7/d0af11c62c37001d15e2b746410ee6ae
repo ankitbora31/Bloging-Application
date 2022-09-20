@@ -1,0 +1,7 @@
+package com.ankit.blog.services;
+
+import com.ankit.blog.payloads.UserDto;
+
+public interface UserService {
+	UserDto createUser(UserDto user);
+}
